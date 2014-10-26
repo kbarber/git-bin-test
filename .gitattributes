@@ -1,0 +1,10 @@
+*.png filter=bin binary
+*.png filter=bin binary
+*.PNG filter=bin binary
+*.bmp filter=bin binary
+*.psd filter=bin binary
+*.PSD filter=bin binary
+*.mp3 filter=bin binary
+*.mb filter=bin binary
+*.tga filter=bin binary
+*.fbx filter=bin binary
